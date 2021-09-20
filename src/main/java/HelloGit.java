@@ -7,5 +7,7 @@ public class HelloGit {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("push by ssh test");
+        System.out.println("pull by ssh test");
+
     }
 }
